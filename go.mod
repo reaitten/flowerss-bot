@@ -22,13 +22,12 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
-	go.uber.org/zap v1.17.0
+	go.uber.org/zap v1.20.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
-	golang.org/x/sys v0.0.0-20201211090839-8ad439b19e0f // indirect
+	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 	golang.org/x/text v0.3.4 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/tucnak/telebot.v2 v2.3.5
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	moul.io/zapgorm v1.1.2
+	moul.io/zapgorm v1.1.4
 )
