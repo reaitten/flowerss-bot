@@ -17,7 +17,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
+	golang.org/x/net v0.7.0
 	gopkg.in/tucnak/telebot.v2 v2.4.1
 	moul.io/zapgorm v1.1.3
 )
